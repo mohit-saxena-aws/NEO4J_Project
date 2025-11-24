@@ -1,14 +1,14 @@
-jobId,locationId,onsiteRequirement,hoursOverlap
-J101,L005,Hybrid,2 hours overlap
-J101,L001,Remote,6 hours overlap
-J101,L002,Onsite,5 hours overlap
-J102,L005,Hybrid,6 hours overlap
-J102,L002,Hybrid,3 hours overlap
-J103,L002,Remote,2 hours overlap
-J103,L001,Remote,3 hours overlap
-J103,L004,Remote,6 hours overlap
-J104,L005,Hybrid,5 hours overlap
-J104,L004,Remote,8 hours overlap
-J105,L004,Hybrid,8 hours overlap
-J105,L002,Hybrid,7 hours overlap
-J105,L001,Hybrid,3 hours overlap
+jobId,locationId,onsiteRequired,hoursOverlap,shiftWindow,workModel,updatedAt,openPositions,visaSupport,regionAlignment
+J101,L005,TRUE,2 hours overlap,09:00-18:00 IST,Hybrid,24-11-2025,2,TRUE,APAC
+J101,L001,TRUE,6 hours overlap,09:00-18:00 IST,Hybrid,24-11-2025,2,TRUE,APAC
+J101,L002,TRUE,5 hours overlap,09:00-18:00 IST,Hybrid,24-11-2025,2,TRUE,APAC
+J102,L005,TRUE,6 hours overlap,09:00-18:00 IST,Hybrid,24-11-2025,2,TRUE,APAC
+J102,L002,TRUE,3 hours overlap,09:00-18:00 IST,Hybrid,24-11-2025,2,TRUE,APAC
+J103,L002,TRUE,2 hours overlap,09:00-18:00 IST,Hybrid,24-11-2025,2,TRUE,APAC
+J103,L001,TRUE,3 hours overlap,09:00-18:00 IST,Hybrid,24-11-2025,2,TRUE,APAC
+J103,L004,TRUE,6 hours overlap,09:00-18:00 IST,Hybrid,24-11-2025,2,TRUE,APAC
+J104,L005,TRUE,5 hours overlap,09:00-18:00 IST,Hybrid,24-11-2025,2,TRUE,APAC
+J104,L004,TRUE,8 hours overlap,09:00-18:00 IST,Hybrid,24-11-2025,2,TRUE,APAC
+J105,L004,TRUE,8 hours overlap,09:00-18:00 IST,Hybrid,24-11-2025,2,TRUE,APAC
+J105,L002,TRUE,7 hours overlap,09:00-18:00 IST,Hybrid,24-11-2025,2,TRUE,APAC
+J105,L001,TRUE,3 hours overlap,09:00-18:00 IST,Hybrid,24-11-2025,2,TRUE,APAC
