@@ -1,0 +1,6 @@
+competency_id,competency_name,competency_type,description
+SKLVET22,Equine General Practice,Skill,"Provides various specialized services (e.g., preventative care, examinations, diagnostics, routine surgeries, non-routine surgeries, dental services, end-of-life care, and euthanasia) specific to horses as patients."
+SKLVET23,Equine Lameness,Skill,"Diagnoses and treats abnormalities in a horse's gait or stance. Establishes whether the cause is pain, a mechanical problem, or a neurological condition. Treats the horse accordingly."
+SKLVET58,Veterinary Orthopedic Surgery,Skill,"Examines animals to prevent, diagnose, and/or treat disorders of the bones, joints, muscles, ligaments, and tendons."
+SKLVET60,Veterinary Parasitology,Skill,Studies animal parasites and the relationship between parasites and their animal hosts.
+SKLBF72,Trading Platforms,Skill,"Designs, configures, and manages the software that is used for trading, or the opening, closing, and management of market positions through a financial intermediary such as a broker."
