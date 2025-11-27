@@ -1,4 +1,4 @@
-Job_profile_id,Job_Profile,Job_Hierarchy,Job_Level_Name,Compensation_Grade,Job_Family_Groups,Job_Family_Name,Job_Category,Sales_Indicator
+job_profile_id,job_profile,job_hierarchy,job_level_name,compensation_grade,job_family_groups,job_family_name,job_category,sales_indicator
 10020000,"Analyst, Accounting (P4 – N23)",Professional/Technical,P4 – N23,,Finance,Accounting,Professional,N - Non-Sales
 10020001,"Analyst, Accounting (P4 – E24)",Professional/Technical,P4 – E24,,Finance,Accounting,Professional,N - Non-Sales
 10020002,"Analyst, Administration & Secretarial (P4 – N23)",Professional/Technical,P4 – N23,,Business Support,Administration & Secretarial,Professional,N - Non-Sales
